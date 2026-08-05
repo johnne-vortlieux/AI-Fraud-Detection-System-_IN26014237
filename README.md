@@ -1,11 +1,11 @@
-# 🛡️ AegisGuard AI — Real-Time Fraud Detection & Risk Engine
+# AI Fraud Detection — Real-Time Fraud Detection & Risk Engine
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-emerald)](https://github.com/)
 [![React Version](https://img.shields.io/badge/React-18.3-blue)](https://react.dev/)
 [![Vite Version](https://img.shields.io/badge/Vite-6.0-purple)](https://vitejs.dev/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-**AegisGuard AI** is an enterprise-grade, real-time payment fraud detection system combining **Hybrid Machine Learning (Random Forest Ensemble)** with a **Dynamic Heuristic Rule Engine** and **Explainable AI (XAI / SHAP)** feature attributions.
+This is an enterprise-grade, real-time payment fraud detection system combining **Hybrid Machine Learning (Random Forest Ensemble)** with a **Dynamic Heuristic Rule Engine** and **Explainable AI (XAI / SHAP)** feature attributions.
 
 ---
 
